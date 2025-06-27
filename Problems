@@ -1,0 +1,17 @@
+
+
+### 🚨 **Problems**
+
+1. Key performance indicators like admission rate (**50.04%**), satisfaction score (**4.99/10**) are **very low** and average wait time (**35.26 min**) is **very high**
+
+2. Almost **72.6%** of patient’s satisfaction score couldn’t collected. Satisfaction score is very important to evaluate the overall performance
+
+3. Morning and night are the **busiest period** (**388** patient/hour), but the waiting time is also higher (**35.66min**) then other time period. It indicates the **operational inefficiency** when the patient pressure is high
+
+4. **30%** of the patients are old people (**highest**), but their satisfaction score (**4.88**) and admission rate (**49.1%**) are **lowest** though their waiting time (**35.07min**) is less than average, which indicates **old people are more time sensitive** then others.
+
+5. Department referral improve the satisfaction score (**5.04**) but the patient admission rate (**49.1%**) is not improved
+
+6. The overall patient number increased in **2024 (12.4%)** but the admission rate doesn't increase much (**1.22%**) comparing with the previous year (2023)
+
+
