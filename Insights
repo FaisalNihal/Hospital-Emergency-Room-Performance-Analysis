@@ -1,0 +1,28 @@
+
+### 📌 **Insights**
+
+1. **Overall Analysis**
+   Total number of patient is **9216**, among them **50.04%** admitted. Average waiting time is **35.26 min** (high) and average satisfactory score is **4.99/10** (very low)
+
+2. **Year Wise Analysis**
+   Number of patient increase **12.45%** (4878) in 2024 but admitted patient rate increased only **1.22%** (not very impressive) comparing with the previous year (2023)
+
+3. **Gender Wise Analysis**
+   Patient percentage in male and female is almost same (Male have slightly higher percentages of patient number which is **51.05%**). The Admission rate is also almost same (**50%**).
+
+4. **Age group Wise Analysis**
+   Almost **30%** of the patients are old people (55+) which is highest, lowest percentage of patient age group is adult people (14-24) but adult group (35-55) has the highest admission rate (**50.91%**) where old group has the lowest admission rate (**49.10%**)
+
+5. **Patient Race Wise Analysis**
+   Among **7 distinct race**, most numbers of patients are from white race (**27%**), where only **5.1%** patients come from Native American race (lowest). Asian race has the highest admission rate (**51.04%**) and pacific islander race has the lowest admission rate (**48.27%**)
+
+6. **Department Wise Analysis**
+   Only **41.4%** patient receive any department referral. Among different department, general practice (**1840**), orthopedics (**995**) have good number of patient, where department like gastroenterology (**173**), renal (**86**) have very low number of patient
+
+7. **Time period Wise Analysis**
+   Morning and night are the busiest period (**388** patient/hour) where during afternoon period, patient pressure remain slightly low. Waiting time is higher in busy period (**35.66min**) compare to other time period (**34.68 min**)
+
+
+
+
+
